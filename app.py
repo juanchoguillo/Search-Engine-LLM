@@ -9,6 +9,7 @@ import os
 from dotenv import load_dotenv
 load_dotenv()
 st.secrets["GROQ_API_KEY"]
+####
 
 
 ## Arxiv, wikipedia and DuckDuckGoSearch Tools
